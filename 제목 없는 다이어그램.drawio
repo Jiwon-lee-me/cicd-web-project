@@ -1,1 +1,68 @@
-<mxfile host="app.diagrams.net" modified="2023-01-16T01:54:29.176Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.52" version="20.8.5" etag="eRQJ1JfAFCipxC8LUqJZ" type="github"><diagram id="s6qAEHIteDRh5ITOezpl">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-16T02:37:49.054Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.52" version="20.8.5" etag="dCNAeMd_2imL5aWMa6Jp" type="github">
+  <diagram id="ckz7CfS8Z_AHKmCLl8eS" name="KMS">
+    <mxGraphModel dx="2168" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sjL_7lDuwugCmZTCmdkM-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="210" width="420" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="sjL_7lDuwugCmZTCmdkM-2" value="Git" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="130" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sjL_7lDuwugCmZTCmdkM-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sjL_7lDuwugCmZTCmdkM-3" target="sjL_7lDuwugCmZTCmdkM-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sjL_7lDuwugCmZTCmdkM-3" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="130" y="260" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sjL_7lDuwugCmZTCmdkM-4" value="&lt;ul&gt;&lt;li&gt;AWS Linux&lt;/li&gt;&lt;li&gt;Source Code 관리&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="85" y="350" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sjL_7lDuwugCmZTCmdkM-9" value="&amp;nbsp;Build Server" style="label;whiteSpace=wrap;html=1;image=img/clipart/Gear_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="344" y="270" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sjL_7lDuwugCmZTCmdkM-10" value="&lt;ul&gt;&lt;li&gt;AWS Windows&lt;/li&gt;&lt;li&gt;Build&lt;/li&gt;&lt;li&gt;Static/Dynamic Analysis&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="319" y="350" width="201" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sjL_7lDuwugCmZTCmdkM-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sjL_7lDuwugCmZTCmdkM-9" target="sjL_7lDuwugCmZTCmdkM-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="299.5" as="sourcePoint" />
+            <mxPoint x="560" y="300" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sjL_7lDuwugCmZTCmdkM-12" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="570" y="265" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sjL_7lDuwugCmZTCmdkM-13" value="SW" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="570" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sjL_7lDuwugCmZTCmdkM-14" value="AWS" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="460" y="180" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sjL_7lDuwugCmZTCmdkM-15" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="250" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sjL_7lDuwugCmZTCmdkM-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=60;exitDy=50;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sjL_7lDuwugCmZTCmdkM-15" target="sjL_7lDuwugCmZTCmdkM-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="310" as="sourcePoint" />
+            <mxPoint x="120" y="310" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sjL_7lDuwugCmZTCmdkM-18" value="Source Code" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="210" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sjL_7lDuwugCmZTCmdkM-20" value="OSS SCAN Tool" style="label;whiteSpace=wrap;html=1;image=img/clipart/Gear_128x128.png;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="215" y="210.5" width="155" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="sjL_7lDuwugCmZTCmdkM-22" value="SaaS Service - Key Generate" style="label;whiteSpace=wrap;html=1;image=img/clipart/Gear_128x128.png;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="215" y="238" width="170" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
