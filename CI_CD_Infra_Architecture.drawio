@@ -1,1 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2023-02-18T02:42:05.313Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.49" version="20.8.13" etag="YcuMkW-KZffmq6wA3iD1" type="github"><diagram name="페이지-1" id="matOO2qGJSzA4SlEIfrk">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-18T06:56:30.185Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.49" etag="OSTZ0ylIApcL32hqTxTn" version="20.8.13" type="github">
+  <diagram name="페이지-1" id="matOO2qGJSzA4SlEIfrk">
+    <mxGraphModel dx="1293" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3y51K6q5bTDvhBKf7iZf-8" value="&lt;h3&gt;1안. Local PC + AWS&lt;/h3&gt;" style="label;whiteSpace=wrap;html=1;image=img/clipart/Gear_128x128.png;align=left;" vertex="1" parent="1">
+          <mxGeometry x="120" y="70" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3y51K6q5bTDvhBKf7iZf-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3y51K6q5bTDvhBKf7iZf-10" target="3y51K6q5bTDvhBKf7iZf-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="290" y="240" />
+              <mxPoint x="290" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3y51K6q5bTDvhBKf7iZf-10" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="140" y="200" width="62.400000000000006" height="62.400000000000006" as="geometry" />
+        </mxCell>
+        <mxCell id="3y51K6q5bTDvhBKf7iZf-18" value="SW 개발" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="101.19999999999999" y="290" width="180" height="104" as="geometry">
+            <mxRectangle x="101.19999999999999" y="290" width="90" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3y51K6q5bTDvhBKf7iZf-19" value="+ Object: Embedded/Web/분석" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3y51K6q5bTDvhBKf7iZf-18">
+          <mxGeometry y="26" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3y51K6q5bTDvhBKf7iZf-20" value="+ Location: Local PC" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3y51K6q5bTDvhBKf7iZf-18">
+          <mxGeometry y="52" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3y51K6q5bTDvhBKf7iZf-21" value="+ Agent: 개발자" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3y51K6q5bTDvhBKf7iZf-18">
+          <mxGeometry y="78" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3y51K6q5bTDvhBKf7iZf-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.994;entryY=0.513;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3y51K6q5bTDvhBKf7iZf-22" target="3y51K6q5bTDvhBKf7iZf-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="239.01" y="231.20000000000005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3y51K6q5bTDvhBKf7iZf-22" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://lthub.ubc.ca/files/2021/06/GitHub-Logo.png;" vertex="1" parent="1">
+          <mxGeometry x="350" y="191.2" width="141.98" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3y51K6q5bTDvhBKf7iZf-25" value="Commit/Push" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="224" y="243" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3y51K6q5bTDvhBKf7iZf-30" value="Pull" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="223" y="200" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3y51K6q5bTDvhBKf7iZf-34" value="SW 형상관리" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="330.99" y="290" width="180" height="104" as="geometry">
+            <mxRectangle x="330.99" y="290" width="90" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3y51K6q5bTDvhBKf7iZf-35" value="+ Object: Embedded/Web/분석" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3y51K6q5bTDvhBKf7iZf-34">
+          <mxGeometry y="26" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3y51K6q5bTDvhBKf7iZf-36" value="+ Location: Local PC" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3y51K6q5bTDvhBKf7iZf-34">
+          <mxGeometry y="52" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3y51K6q5bTDvhBKf7iZf-37" value="+ Agent: 개발자" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3y51K6q5bTDvhBKf7iZf-34">
+          <mxGeometry y="78" width="180" height="26" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
