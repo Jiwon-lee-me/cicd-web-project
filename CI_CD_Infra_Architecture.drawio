@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-02-18T06:56:30.185Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.49" etag="OSTZ0ylIApcL32hqTxTn" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-18T07:12:47.027Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.49" etag="N7smQ5N7oUXkcztyUmkM" version="20.8.13" type="github">
   <diagram name="페이지-1" id="matOO2qGJSzA4SlEIfrk">
-    <mxGraphModel dx="1293" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1293" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="3y51K6q5bTDvhBKf7iZf-42" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="310" y="178" width="730" height="372" as="geometry" />
+        </mxCell>
         <mxCell id="3y51K6q5bTDvhBKf7iZf-8" value="&lt;h3&gt;1안. Local PC + AWS&lt;/h3&gt;" style="label;whiteSpace=wrap;html=1;image=img/clipart/Gear_128x128.png;align=left;" vertex="1" parent="1">
           <mxGeometry x="120" y="70" width="200" height="60" as="geometry" />
         </mxCell>
@@ -17,7 +20,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3y51K6q5bTDvhBKf7iZf-10" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" vertex="1" parent="1">
-          <mxGeometry x="140" y="200" width="62.400000000000006" height="62.400000000000006" as="geometry" />
+          <mxGeometry x="120" y="189" width="82.4" height="82.4" as="geometry" />
         </mxCell>
         <mxCell id="3y51K6q5bTDvhBKf7iZf-18" value="SW 개발" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="101.19999999999999" y="290" width="180" height="104" as="geometry">
@@ -39,7 +42,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3y51K6q5bTDvhBKf7iZf-22" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://lthub.ubc.ca/files/2021/06/GitHub-Logo.png;" vertex="1" parent="1">
-          <mxGeometry x="350" y="191.2" width="141.98" height="80" as="geometry" />
+          <mxGeometry x="352" y="191.2" width="141.98" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3y51K6q5bTDvhBKf7iZf-25" value="Commit/Push" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;align=center;" vertex="1" parent="1">
           <mxGeometry x="224" y="243" width="110" height="30" as="geometry" />
@@ -48,7 +51,7 @@
           <mxGeometry x="223" y="200" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3y51K6q5bTDvhBKf7iZf-34" value="SW 형상관리" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="330.99" y="290" width="180" height="104" as="geometry">
+          <mxGeometry x="332.99" y="290" width="180" height="104" as="geometry">
             <mxRectangle x="330.99" y="290" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -60,6 +63,15 @@
         </mxCell>
         <mxCell id="3y51K6q5bTDvhBKf7iZf-37" value="+ Agent: 개발자" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3y51K6q5bTDvhBKf7iZf-34">
           <mxGeometry y="78" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3y51K6q5bTDvhBKf7iZf-39" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://miro.medium.com/max/580/1*DHe24MbDHtbkOeIJzxrfdA.png;" vertex="1" parent="1">
+          <mxGeometry x="390" y="70" width="203.35" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3y51K6q5bTDvhBKf7iZf-43" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://initialcommit.com/img/initialcommit/baby-git-release.png;" vertex="1" parent="1">
+          <mxGeometry x="190" y="178" width="102.17" height="56.78" as="geometry" />
+        </mxCell>
+        <mxCell id="3y51K6q5bTDvhBKf7iZf-46" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://miro.medium.com/max/1400/1*LOFbTP2SxXcFpM_qTsUSuw.png;" vertex="1" parent="1">
+          <mxGeometry x="930" y="130" width="145.22" height="145.22" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
