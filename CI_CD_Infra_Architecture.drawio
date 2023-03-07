@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-07T07:36:23.503Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63" etag="XViAT2820tiGU2rE8KdA" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-07T10:01:18.755Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63" etag="IDmQ6eECDtkQiiqE8L1o" version="21.0.2" type="github">
   <diagram name="페이지-1" id="matOO2qGJSzA4SlEIfrk">
-    <mxGraphModel dx="1560" dy="2984" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="2040" dy="3286" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -132,7 +132,7 @@
         <mxCell id="3y51K6q5bTDvhBKf7iZf-71" value="+ Object: Embedded/Web/분석" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="3y51K6q5bTDvhBKf7iZf-70" vertex="1">
           <mxGeometry y="26" width="187.25" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="3y51K6q5bTDvhBKf7iZf-72" value="+ Location: Local PC + AWS" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="3y51K6q5bTDvhBKf7iZf-70" vertex="1">
+        <mxCell id="3y51K6q5bTDvhBKf7iZf-72" value="+ Location: Local PC + Github" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="3y51K6q5bTDvhBKf7iZf-70" vertex="1">
           <mxGeometry y="52" width="187.25" height="26" as="geometry" />
         </mxCell>
         <mxCell id="3y51K6q5bTDvhBKf7iZf-73" value="+ Agent: 운영팀 / LGCNS SM" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#FF120A;" parent="3y51K6q5bTDvhBKf7iZf-70" vertex="1">
@@ -149,7 +149,7 @@
         <mxCell id="3y51K6q5bTDvhBKf7iZf-78" value="+ Object: Embedded/Web/분석" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="3y51K6q5bTDvhBKf7iZf-77" vertex="1">
           <mxGeometry y="26" width="188.25" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="3y51K6q5bTDvhBKf7iZf-79" value="+ Location: Local PC + Github" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="3y51K6q5bTDvhBKf7iZf-77" vertex="1">
+        <mxCell id="3y51K6q5bTDvhBKf7iZf-79" value="+ Location: Local PC  + Github" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="3y51K6q5bTDvhBKf7iZf-77" vertex="1">
           <mxGeometry y="52" width="188.25" height="26" as="geometry" />
         </mxCell>
         <mxCell id="3y51K6q5bTDvhBKf7iZf-80" value="+ Agent: 개발자(Code Reviewer)" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#FF120A;" parent="3y51K6q5bTDvhBKf7iZf-77" vertex="1">
@@ -163,7 +163,7 @@
         <mxCell id="3y51K6q5bTDvhBKf7iZf-84" value="+ Object: Embedded/Web/분석" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="3y51K6q5bTDvhBKf7iZf-83" vertex="1">
           <mxGeometry y="26" width="186" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="3y51K6q5bTDvhBKf7iZf-85" value="+ Location: Local PC + Jenkins" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#ff0000;" parent="3y51K6q5bTDvhBKf7iZf-83" vertex="1">
+        <mxCell id="3y51K6q5bTDvhBKf7iZf-85" value="+ Location: Local PC + AWS" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#ff0000;" parent="3y51K6q5bTDvhBKf7iZf-83" vertex="1">
           <mxGeometry y="52" width="186" height="26" as="geometry" />
         </mxCell>
         <mxCell id="3y51K6q5bTDvhBKf7iZf-86" value="+ Agent: 운영팀 / LGCNS SM" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#FF120A;" parent="3y51K6q5bTDvhBKf7iZf-83" vertex="1">
@@ -263,7 +263,7 @@
         <mxCell id="3y51K6q5bTDvhBKf7iZf-146" value="+ Object: Embedded/Web/분석" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="3y51K6q5bTDvhBKf7iZf-145" vertex="1">
           <mxGeometry y="26" width="188" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="3y51K6q5bTDvhBKf7iZf-147" value="+ Location: Local PC + Jenkins" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="3y51K6q5bTDvhBKf7iZf-145" vertex="1">
+        <mxCell id="3y51K6q5bTDvhBKf7iZf-147" value="+ Location: AWS (Cloud)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="3y51K6q5bTDvhBKf7iZf-145" vertex="1">
           <mxGeometry y="52" width="188" height="26" as="geometry" />
         </mxCell>
         <mxCell id="3y51K6q5bTDvhBKf7iZf-148" value="+ Agent: 운영팀 / LGCNS SM" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#FF120A;" parent="3y51K6q5bTDvhBKf7iZf-145" vertex="1">
@@ -280,7 +280,7 @@
         <mxCell id="3y51K6q5bTDvhBKf7iZf-154" value="+ Object: Embedded/Web/분석" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="3y51K6q5bTDvhBKf7iZf-153" vertex="1">
           <mxGeometry y="26" width="190" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="3y51K6q5bTDvhBKf7iZf-155" value="+ Location: Local PC + Jenkins" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="3y51K6q5bTDvhBKf7iZf-153" vertex="1">
+        <mxCell id="3y51K6q5bTDvhBKf7iZf-155" value="+ Location: Local PC" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="3y51K6q5bTDvhBKf7iZf-153" vertex="1">
           <mxGeometry y="52" width="190" height="26" as="geometry" />
         </mxCell>
         <mxCell id="3y51K6q5bTDvhBKf7iZf-156" value="+ Agent: 운영팀 / LGCNS SM" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#FF120A;" parent="3y51K6q5bTDvhBKf7iZf-153" vertex="1">
@@ -300,7 +300,7 @@
         <mxCell id="3y51K6q5bTDvhBKf7iZf-162" value="+ Object: BMS HW" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="3y51K6q5bTDvhBKf7iZf-161" vertex="1">
           <mxGeometry y="26" width="188" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="3y51K6q5bTDvhBKf7iZf-163" value="+ Location: Local PC + Jenkins" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="3y51K6q5bTDvhBKf7iZf-161" vertex="1">
+        <mxCell id="3y51K6q5bTDvhBKf7iZf-163" value="+ Location: Local PC" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="3y51K6q5bTDvhBKf7iZf-161" vertex="1">
           <mxGeometry y="52" width="188" height="26" as="geometry" />
         </mxCell>
         <mxCell id="3y51K6q5bTDvhBKf7iZf-164" value="+ Agent: 운영팀 / LGCNS SM" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#FF120A;" parent="3y51K6q5bTDvhBKf7iZf-161" vertex="1">
@@ -384,7 +384,7 @@
         <mxCell id="3y51K6q5bTDvhBKf7iZf-203" value="+ Object: Daily or Weekly Binary and &#xa;                Release Binary 등" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="3y51K6q5bTDvhBKf7iZf-202" vertex="1">
           <mxGeometry y="26" width="210" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="3y51K6q5bTDvhBKf7iZf-204" value="+ Location: AWS S3 (Cloud)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="3y51K6q5bTDvhBKf7iZf-202" vertex="1">
+        <mxCell id="3y51K6q5bTDvhBKf7iZf-204" value="+ Location: AWS (Cloud)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="3y51K6q5bTDvhBKf7iZf-202" vertex="1">
           <mxGeometry y="60" width="210" height="26" as="geometry" />
         </mxCell>
         <mxCell id="3y51K6q5bTDvhBKf7iZf-205" value="+ Agent: 운영팀 / LGCNS SM" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#ff0000;" parent="3y51K6q5bTDvhBKf7iZf-202" vertex="1">
@@ -425,7 +425,7 @@
         <mxCell id="v5soi6Bnmc6UNz97VZMT-2" value="+ Object: Platform 개발팀 &#xa;                Web Application" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="v5soi6Bnmc6UNz97VZMT-1">
           <mxGeometry y="26" width="210" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="v5soi6Bnmc6UNz97VZMT-3" value="+ Location: AWS S3 (Cloud)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="v5soi6Bnmc6UNz97VZMT-1">
+        <mxCell id="v5soi6Bnmc6UNz97VZMT-3" value="+ Location: AWS (Cloud)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="v5soi6Bnmc6UNz97VZMT-1">
           <mxGeometry y="60" width="210" height="26" as="geometry" />
         </mxCell>
         <mxCell id="v5soi6Bnmc6UNz97VZMT-4" value="+ Agent: 운영팀 / LGCNS SM" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#ff0000;" vertex="1" parent="v5soi6Bnmc6UNz97VZMT-1">
@@ -486,7 +486,7 @@
         <mxCell id="v5soi6Bnmc6UNz97VZMT-37" value="+ Object: Embedded/Web/분석" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="v5soi6Bnmc6UNz97VZMT-36">
           <mxGeometry y="26" width="188" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="v5soi6Bnmc6UNz97VZMT-38" value="+ Location: Local PC + Jenkins" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="v5soi6Bnmc6UNz97VZMT-36">
+        <mxCell id="v5soi6Bnmc6UNz97VZMT-38" value="+ Location: AWS (Cloud)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="v5soi6Bnmc6UNz97VZMT-36">
           <mxGeometry y="52" width="188" height="26" as="geometry" />
         </mxCell>
         <mxCell id="v5soi6Bnmc6UNz97VZMT-39" value="+ Agent: 운영팀 / LGCNS SM" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#FF120A;" vertex="1" parent="v5soi6Bnmc6UNz97VZMT-36">
@@ -610,7 +610,7 @@
           <mxGeometry y="78" width="210" height="26" as="geometry" />
         </mxCell>
         <mxCell id="v5soi6Bnmc6UNz97VZMT-143" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="80" y="-508.0000000000001" width="2650" height="50.000000000000284" as="geometry" />
+          <mxGeometry x="77.79" y="-498.0000000000001" width="2650" height="50.000000000000284" as="geometry" />
         </mxCell>
         <mxCell id="v5soi6Bnmc6UNz97VZMT-144" value="" style="group" vertex="1" connectable="0" parent="v5soi6Bnmc6UNz97VZMT-143">
           <mxGeometry y="-1.6342482922482304e-13" width="2650" height="40.00000000000033" as="geometry" />
