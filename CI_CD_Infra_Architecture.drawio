@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-07T02:01:09.317Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63" etag="CAt9NqocWcuYn1PMrSTD" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-07T02:02:07.351Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63" etag="LzeOIcLfYigC_jbPb2r1" version="21.0.2" type="github">
   <diagram name="페이지-1" id="matOO2qGJSzA4SlEIfrk">
-    <mxGraphModel dx="5030" dy="4090" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="4471" dy="3858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -440,7 +440,7 @@
           <mxGeometry x="1581.9" y="-717.7900000000001" width="176.1" height="30" as="geometry" />
         </mxCell>
         <mxCell id="omZi3zj9xM27K8-kXhq1-27" value="검증 인원" style="text;strokeColor=none;fillColor=none;html=1;fontSize=19;fontStyle=1;verticalAlign=middle;align=center;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="2851.2" y="-743.69" width="100" height="40" as="geometry" />
+          <mxGeometry x="2851.2" y="-890" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="omZi3zj9xM27K8-kXhq1-31" value="" style="curved=1;endArrow=none;html=1;rounded=0;strokeColor=#000000;fontSize=19;fontColor=#000000;startArrow=none;" parent="1" edge="1" source="omZi3zj9xM27K8-kXhq1-29">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -607,6 +607,20 @@
         </mxCell>
         <mxCell id="v5soi6Bnmc6UNz97VZMT-70" value="&lt;b&gt;4 Systems&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1250" y="-462" width="97.01" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v5soi6Bnmc6UNz97VZMT-73" value="Issue 대응" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="2811.2" y="-744" width="180" height="104" as="geometry">
+            <mxRectangle x="101.19999999999999" y="290" width="90" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v5soi6Bnmc6UNz97VZMT-74" value="+ Object: Embedded/Web/분석" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="v5soi6Bnmc6UNz97VZMT-73">
+          <mxGeometry y="26" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="v5soi6Bnmc6UNz97VZMT-75" value="+ Location: Local PC" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="v5soi6Bnmc6UNz97VZMT-73">
+          <mxGeometry y="52" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="v5soi6Bnmc6UNz97VZMT-76" value="+ Agent: 개발자" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="v5soi6Bnmc6UNz97VZMT-73">
+          <mxGeometry y="78" width="180" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
