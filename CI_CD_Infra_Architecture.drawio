@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-07T00:36:15.901Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63" etag="utJTc33GutpBXFmTr6Yg" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-07T00:41:17.579Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63" etag="HAp0xz2xccwVADy9onHd" version="21.0.2" type="github">
   <diagram name="페이지-1" id="matOO2qGJSzA4SlEIfrk">
     <mxGraphModel dx="3658" dy="3520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="2319" y="-1260" width="311" height="640" as="geometry" />
         </mxCell>
         <mxCell id="3y51K6q5bTDvhBKf7iZf-174" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="282" y="-1440" width="1798" height="820" as="geometry" />
+          <mxGeometry x="280" y="-1440" width="1800" height="820" as="geometry" />
         </mxCell>
         <mxCell id="3y51K6q5bTDvhBKf7iZf-170" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=default;arcSize=13;" parent="1" vertex="1">
           <mxGeometry x="1527" y="-1036.3000000000002" width="490" height="342.61" as="geometry" />
@@ -378,7 +378,7 @@
         <mxCell id="3y51K6q5bTDvhBKf7iZf-201" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" parent="1" vertex="1">
           <mxGeometry x="2860" y="-841.4699999999999" width="82.4" height="82.4" as="geometry" />
         </mxCell>
-        <mxCell id="3y51K6q5bTDvhBKf7iZf-202" value="배포" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+        <mxCell id="3y51K6q5bTDvhBKf7iZf-202" value="배포 (File Server)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
           <mxGeometry x="2364.84" y="-1162.7800000000002" width="210" height="112" as="geometry">
             <mxRectangle x="101.19999999999999" y="290" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -867,12 +867,12 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="v5soi6Bnmc6UNz97VZMT-1" value="배포" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="2369.5" y="-966.9400000000003" width="210" height="112" as="geometry">
+        <mxCell id="v5soi6Bnmc6UNz97VZMT-1" value="배포 (Web Server)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="2369.5" y="-972.9400000000003" width="210" height="112" as="geometry">
             <mxRectangle x="101.19999999999999" y="290" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="v5soi6Bnmc6UNz97VZMT-2" value="+ Object: Web Application" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="v5soi6Bnmc6UNz97VZMT-1">
+        <mxCell id="v5soi6Bnmc6UNz97VZMT-2" value="+ Object: Platform 개발팀 &#xa;                Web Application" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="v5soi6Bnmc6UNz97VZMT-1">
           <mxGeometry y="26" width="210" height="34" as="geometry" />
         </mxCell>
         <mxCell id="v5soi6Bnmc6UNz97VZMT-3" value="+ Location: AWS S3 (Cloud)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="v5soi6Bnmc6UNz97VZMT-1">
@@ -911,7 +911,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="omZi3zj9xM27K8-kXhq1-29" value="Issues" style="shape=mxgraph.uml25.inputPin;html=1;points=[[0,0.5],[1,0.5]];flipH=1;strokeColor=#fcc5c5;fontSize=15;fontColor=#000000;fillColor=default;rotation=0;" parent="1" vertex="1">
-          <mxGeometry x="2669.17" y="-822.4699999999999" width="100" height="30" as="geometry" />
+          <mxGeometry x="2650" y="-821.79" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
