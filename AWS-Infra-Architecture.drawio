@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-06T07:29:36.333Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63" etag="QX0DvzWAeFHeFruJUtwZ" version="20.8.22" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-07T07:26:47.993Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63" etag="PqezHs1IwwCIdGsElu_k" version="21.0.2" type="github">
   <diagram id="ckz7CfS8Z_AHKmCLl8eS" name="KMS">
-    <mxGraphModel dx="7012" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5000" pageHeight="5000" math="0" shadow="0">
+    <mxGraphModel dx="6326" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5000" pageHeight="5000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -62,8 +62,8 @@
         <mxCell id="sjL_7lDuwugCmZTCmdkM-22" value="SaaS Service - Key Generate" style="label;whiteSpace=wrap;html=1;image=img/clipart/Gear_128x128.png;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="-4475" y="98" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BRR9gMddrIYZ8pogIjPf-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-4580" y="370" width="850" height="590" as="geometry" />
+        <mxCell id="BRR9gMddrIYZ8pogIjPf-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-4950" y="310" width="1360" height="590" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
