@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-07T02:11:10.145Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63" etag="NTXCnEBSdsOGn3HgnJ19" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-07T02:12:26.843Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63" etag="q7TLofRRlaUIQnG59N_z" version="21.0.2" type="github">
   <diagram name="페이지-1" id="matOO2qGJSzA4SlEIfrk">
-    <mxGraphModel dx="2012" dy="2836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="4024" dy="3672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
         <mxCell id="3y51K6q5bTDvhBKf7iZf-211" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="2319" y="-1260" width="311" height="640" as="geometry" />
         </mxCell>
-        <UserObject label="" link="https://cdn.imgbin.com/11/14/14/imgbin-lint-javascript-logo-javascript-logo-3W09piuwjKsieNmJYvPPwULLQ.jpg" id="3y51K6q5bTDvhBKf7iZf-174">
+        <UserObject label="" id="3y51K6q5bTDvhBKf7iZf-174">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
             <mxGeometry x="280" y="-1440" width="1800" height="820" as="geometry" />
           </mxCell>
