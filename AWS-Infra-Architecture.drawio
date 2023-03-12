@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-12T17:17:14.643Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.69" etag="IWX57M3f6Mp2Tr_qogjo" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-12T17:29:12.152Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.69" etag="tCwVDIGs2FrpXhvk0LnF" version="21.0.6" type="github">
   <diagram id="ckz7CfS8Z_AHKmCLl8eS" name="KMS">
-    <mxGraphModel dx="6727" dy="948" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="5000" pageHeight="5000" math="0" shadow="0">
+    <mxGraphModel dx="6807" dy="998" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="5000" pageHeight="5000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -270,6 +270,12 @@
             <mxPoint x="-4350" y="950" as="sourcePoint" />
             <mxPoint x="-4190" y="716" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="qk-mrjZD8ZD73zgvC9Mo-1" value="&lt;b&gt;Testing Tool 추가 예정&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2;fontColor=#8977fa;" vertex="1" parent="1">
+          <mxGeometry x="-4749" y="972" width="143" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="qk-mrjZD8ZD73zgvC9Mo-2" value="&lt;b&gt;Proxy Server 추가 예정&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2;fontColor=#8977fa;" vertex="1" parent="1">
+          <mxGeometry x="-4070" y="767" width="143" height="43" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
