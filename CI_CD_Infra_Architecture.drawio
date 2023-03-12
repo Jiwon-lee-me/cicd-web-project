@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-12T11:43:25.041Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.69" etag="04CIATVutn6A6K3vqmvA" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-12T11:43:36.330Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.69" etag="Xiv0HyI3MEzNDbGva2VJ" version="21.0.6" type="github">
   <diagram name="페이지-1" id="matOO2qGJSzA4SlEIfrk">
     <mxGraphModel dx="2181" dy="3354" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="2319" y="-1295" width="311" height="432" as="geometry" />
         </mxCell>
         <mxCell id="v5soi6Bnmc6UNz97VZMT-137" value="&lt;b&gt;Google &lt;/b&gt;Cloud Platform" style="fillColor=#F6F6F6;strokeColor=default;shadow=0;gradientColor=none;fontSize=14;align=left;spacing=10;fontColor=#717171;9E9E9E;verticalAlign=top;spacingTop=-4;fontStyle=0;spacingLeft=40;html=1;whiteSpace=wrap;opacity=30;strokeWidth=2;container=0;" parent="1" vertex="1">
-          <mxGeometry x="2350" y="-841.47" width="252" height="241.47" as="geometry" />
+          <mxGeometry x="2348" y="-841.47" width="252" height="241.47" as="geometry" />
         </mxCell>
         <UserObject label="" id="3y51K6q5bTDvhBKf7iZf-174">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
