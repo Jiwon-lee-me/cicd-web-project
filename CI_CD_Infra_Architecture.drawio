@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-15T03:19:45.565Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.69" etag="rPnkCP2k1-qvj5OdWMdc" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-15T03:20:47.821Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.69" etag="0nchebpcP_wNXxsm0Z6K" version="21.0.6" type="github">
   <diagram name="페이지-1" id="matOO2qGJSzA4SlEIfrk">
-    <mxGraphModel dx="1453" dy="3467" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="1938" dy="3775" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -430,7 +430,7 @@
             <mxPoint x="111" y="79" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MubcusKchDl4kVDNZGCy-160" value="전용선" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="qOfNHQr07MBk6NHw6b6k-53">
+        <mxCell id="MubcusKchDl4kVDNZGCy-160" value="&lt;font color=&quot;#f70202&quot;&gt;전용선&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="qOfNHQr07MBk6NHw6b6k-53">
           <mxGeometry x="97" y="45" width="92" height="34" as="geometry" />
         </mxCell>
         <mxCell id="MubcusKchDl4kVDNZGCy-161" value="사외" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="qOfNHQr07MBk6NHw6b6k-53">
