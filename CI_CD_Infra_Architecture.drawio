@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-15T01:55:17.435Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.69" etag="j_CTFJ2cuMNR904yy0ER" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-15T01:57:47.471Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.69" etag="uIQXl2FFx6mIoXtftbIU" version="21.0.6" type="github">
   <diagram name="페이지-1" id="matOO2qGJSzA4SlEIfrk">
-    <mxGraphModel dx="1938" dy="2975" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="2218" dy="3153" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -700,15 +700,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MubcusKchDl4kVDNZGCy-84" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=#157fc1;strokeWidth=3;" edge="1" parent="qOfNHQr07MBk6NHw6b6k-53" source="qOfNHQr07MBk6NHw6b6k-72">
+        <mxCell id="MubcusKchDl4kVDNZGCy-84" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=#157fc1;strokeWidth=3;" edge="1" parent="qOfNHQr07MBk6NHw6b6k-53" source="qOfNHQr07MBk6NHw6b6k-72" target="MubcusKchDl4kVDNZGCy-332">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="455" y="619" as="sourcePoint" />
-            <mxPoint x="554" y="462" as="targetPoint" />
+            <mxPoint x="543" y="464" as="targetPoint" />
             <Array as="points">
               <mxPoint x="503" y="607" />
               <mxPoint x="503" y="556" />
               <mxPoint x="508" y="511" />
               <mxPoint x="520" y="483" />
+              <mxPoint x="517" y="438" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -753,7 +754,7 @@
         <mxCell id="qOfNHQr07MBk6NHw6b6k-99" value="CI/CD Pipeline (20개)" style="swimlane;whiteSpace=wrap;html=1;fillColor=#e1e0e0;fontColor=#333333;strokeColor=#666666;" parent="qOfNHQr07MBk6NHw6b6k-53" vertex="1">
           <mxGeometry x="598" y="384" width="157" height="718" as="geometry" />
         </mxCell>
-        <mxCell id="qOfNHQr07MBk6NHw6b6k-105" value="AWS Cloud (Seoul Region)" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=0;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud_alt;strokeColor=#232F3E;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#232F3E;dashed=0;" parent="qOfNHQr07MBk6NHw6b6k-53" vertex="1">
+        <mxCell id="qOfNHQr07MBk6NHw6b6k-105" value="AWS Cloud (Seoul Region)" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=0;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud_alt;strokeColor=#232F3E;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#232F3E;dashed=0;strokeWidth=1;" parent="qOfNHQr07MBk6NHw6b6k-53" vertex="1">
           <mxGeometry x="555" y="61" width="776" height="1078" as="geometry" />
         </mxCell>
         <mxCell id="qOfNHQr07MBk6NHw6b6k-118" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=none;entryX=-0.005;entryY=0.218;entryDx=0;entryDy=0;entryPerimeter=0;" parent="qOfNHQr07MBk6NHw6b6k-53" source="qOfNHQr07MBk6NHw6b6k-122" edge="1" target="qOfNHQr07MBk6NHw6b6k-105">
@@ -1239,6 +1240,15 @@
         </mxCell>
         <mxCell id="MubcusKchDl4kVDNZGCy-331" value="&lt;b&gt;VPC &amp;lt;&amp;gt; On-Prem 네트워크 연결 허브&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2;fontColor=#8977fa;" vertex="1" parent="qOfNHQr07MBk6NHw6b6k-53">
           <mxGeometry x="1315.24" y="884" width="105.76" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MubcusKchDl4kVDNZGCy-335" value="" style="group" vertex="1" connectable="0" parent="qOfNHQr07MBk6NHw6b6k-53">
+          <mxGeometry x="504.61" y="384.5" width="100" height="79.5" as="geometry" />
+        </mxCell>
+        <mxCell id="MubcusKchDl4kVDNZGCy-332" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#4D27AA;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.gateway;" vertex="1" parent="MubcusKchDl4kVDNZGCy-335">
+          <mxGeometry x="35.389999999999986" width="29.23" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MubcusKchDl4kVDNZGCy-333" value="DX&#xa;Gateway&#xa;(VGW)" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=1" vertex="1" parent="MubcusKchDl4kVDNZGCy-335">
+          <mxGeometry y="29" width="100" height="50.5" as="geometry" />
         </mxCell>
         <mxCell id="qOfNHQr07MBk6NHw6b6k-67" value="" style="curved=1;endArrow=none;html=1;rounded=0;exitX=0.818;exitY=0.018;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="qOfNHQr07MBk6NHw6b6k-32" target="qOfNHQr07MBk6NHw6b6k-65" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
