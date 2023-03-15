@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-15T00:50:10.897Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.69" etag="xLblqmWzAz6JG1WQVBkt" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-15T00:54:06.355Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.69" etag="e2_JCdPyTqcHFamYjjl6" version="21.0.6" type="github">
   <diagram name="페이지-1" id="matOO2qGJSzA4SlEIfrk">
-    <mxGraphModel dx="971" dy="2362" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="1576" dy="2746" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1126,8 +1126,11 @@
         <mxCell id="MubcusKchDl4kVDNZGCy-165" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.generic_firewall;" vertex="1" parent="MubcusKchDl4kVDNZGCy-170">
           <mxGeometry x="16.060000000000002" width="38.91" height="32.92" as="geometry" />
         </mxCell>
-        <mxCell id="MubcusKchDl4kVDNZGCy-167" value="&lt;b style=&quot;font-size: 9px;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;UTM&lt;br style=&quot;font-size: 9px;&quot;&gt;(Unified Threat Management, 방화벽)&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MubcusKchDl4kVDNZGCy-170">
-          <mxGeometry y="64.00000000000001" width="71.02" height="21.5" as="geometry" />
+        <mxCell id="MubcusKchDl4kVDNZGCy-167" value="&lt;b style=&quot;font-size: 9px;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;UTM&lt;br style=&quot;font-size: 9px;&quot;&gt;(통합 보안 솔루션, 방화벽)&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MubcusKchDl4kVDNZGCy-170">
+          <mxGeometry y="49.000000000000014" width="71.02" height="21.5" as="geometry" />
+        </mxCell>
+        <mxCell id="MubcusKchDl4kVDNZGCy-171" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.waf;fillColor=#759C3E;gradientColor=none;" vertex="1" parent="MubcusKchDl4kVDNZGCy-122">
+          <mxGeometry x="345" y="108.08" width="29.55" height="35.92" as="geometry" />
         </mxCell>
         <mxCell id="MubcusKchDl4kVDNZGCy-104" value="Direct&#xa;Connect&#xa;(DX)" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=1" vertex="1" parent="qOfNHQr07MBk6NHw6b6k-53">
           <mxGeometry x="1333" y="828" width="100" height="40" as="geometry" />
@@ -1327,6 +1330,9 @@
             <mxPoint x="111" y="1586.92" as="sourcePoint" />
             <mxPoint x="187" y="1586.92" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="MubcusKchDl4kVDNZGCy-172" value="&lt;b style=&quot;font-size: 9px;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;WAF&lt;br&gt;(웹 방화벽)&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1164.26" y="1735" width="71.02" height="21.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
