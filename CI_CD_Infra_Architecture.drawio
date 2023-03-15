@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-15T04:26:29.707Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.69" etag="a8ArH91Q00Ad4DLthS65" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-15T04:34:20.457Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.69" etag="TCXpM9AzdlTOgGQD1P2m" version="21.0.6" type="github">
   <diagram name="페이지-1" id="matOO2qGJSzA4SlEIfrk">
-    <mxGraphModel dx="1511" dy="3504" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="2400" dy="4068" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -270,6 +270,7 @@
             <mxPoint x="341" y="-2324" as="sourcePoint" />
             <mxPoint x="383" y="-2426" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="566" y="-2311" />
               <mxPoint x="587" y="-2324" />
             </Array>
           </mxGeometry>
@@ -725,7 +726,7 @@
           <mxGeometry x="482.61" y="-2235.5" width="100" height="50.5" as="geometry" />
         </mxCell>
         <mxCell id="qOfNHQr07MBk6NHw6b6k-150" value="AWS Fargate" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.fargate;container=0;" parent="1" vertex="1">
-          <mxGeometry x="794" y="-1941" width="44" height="74" as="geometry" />
+          <mxGeometry x="794" y="-1941" width="44" height="72" as="geometry" />
         </mxCell>
         <mxCell id="qOfNHQr07MBk6NHw6b6k-170" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://miro.medium.com/max/1400/1*LOFbTP2SxXcFpM_qTsUSuw.png;container=0;" parent="1" vertex="1">
           <mxGeometry x="1058" y="-1950" width="48.99999999999999" height="48.99999999999999" as="geometry" />
@@ -1003,6 +1004,39 @@
         </mxCell>
         <mxCell id="MubcusKchDl4kVDNZGCy-484" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;...&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="1300" y="-1950" width="157" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="MubcusKchDl4kVDNZGCy-490" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=none;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="qOfNHQr07MBk6NHw6b6k-166">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="934" y="-1792" as="sourcePoint" />
+            <mxPoint x="911" y="-1878" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="976" y="-1824" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MubcusKchDl4kVDNZGCy-491" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=none;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="qOfNHQr07MBk6NHw6b6k-323" target="qOfNHQr07MBk6NHw6b6k-166">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="944" y="-1782" as="sourcePoint" />
+            <mxPoint x="993" y="-1972" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="953" y="-1736" />
+              <mxPoint x="957" y="-1837" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MubcusKchDl4kVDNZGCy-489" value="&lt;b&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Serverless File Storage&lt;br&gt;(File Data 공유)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2;fontColor=#8977fa;container=0;" vertex="1" parent="1">
+          <mxGeometry x="943.53" y="-1816.26" width="105.76" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MubcusKchDl4kVDNZGCy-492" value="" style="curved=1;endArrow=classic;html=1;rounded=0;startArrow=none;entryX=0.484;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="qOfNHQr07MBk6NHw6b6k-72">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1195" y="-1254" as="sourcePoint" />
+            <mxPoint x="210" y="-1846" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="953" y="-1157" />
+              <mxPoint x="681" y="-1149" />
+              <mxPoint x="378" y="-1339" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
