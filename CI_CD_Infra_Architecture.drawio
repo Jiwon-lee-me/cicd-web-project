@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-15T00:54:06.355Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.69" etag="e2_JCdPyTqcHFamYjjl6" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-15T00:56:43.510Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.69" etag="s4nAmUt3RMsN4N91WV76" version="21.0.6" type="github">
   <diagram name="페이지-1" id="matOO2qGJSzA4SlEIfrk">
-    <mxGraphModel dx="1576" dy="2746" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="2900" dy="3585" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1095,9 +1095,6 @@
         <mxCell id="MubcusKchDl4kVDNZGCy-131" value="&lt;b&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Application&lt;br&gt;Load Balancer&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MubcusKchDl4kVDNZGCy-132">
           <mxGeometry y="37" width="76.94" height="21.5" as="geometry" />
         </mxCell>
-        <mxCell id="MubcusKchDl4kVDNZGCy-136" value="&lt;b style=&quot;font-size: 9px;&quot;&gt;Internet&lt;br style=&quot;font-size: 9px;&quot;&gt;Facing&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2;fontColor=#8977fa;" vertex="1" parent="MubcusKchDl4kVDNZGCy-122">
-          <mxGeometry x="64" y="78.08" width="61.06" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="MubcusKchDl4kVDNZGCy-155" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=#c91818;strokeWidth=3;" edge="1" parent="MubcusKchDl4kVDNZGCy-122" source="MubcusKchDl4kVDNZGCy-128">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="28" y="108.07999999999993" as="sourcePoint" />
@@ -1131,6 +1128,9 @@
         </mxCell>
         <mxCell id="MubcusKchDl4kVDNZGCy-171" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.waf;fillColor=#759C3E;gradientColor=none;" vertex="1" parent="MubcusKchDl4kVDNZGCy-122">
           <mxGeometry x="345" y="108.08" width="29.55" height="35.92" as="geometry" />
+        </mxCell>
+        <mxCell id="MubcusKchDl4kVDNZGCy-136" value="&lt;b style=&quot;font-size: 9px;&quot;&gt;Internet&lt;br style=&quot;font-size: 9px;&quot;&gt;Facing&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2;fontColor=#8977fa;" vertex="1" parent="MubcusKchDl4kVDNZGCy-122">
+          <mxGeometry x="72" y="90.08" width="61.06" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MubcusKchDl4kVDNZGCy-104" value="Direct&#xa;Connect&#xa;(DX)" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=1" vertex="1" parent="qOfNHQr07MBk6NHw6b6k-53">
           <mxGeometry x="1333" y="828" width="100" height="40" as="geometry" />
@@ -1333,6 +1333,29 @@
         </mxCell>
         <mxCell id="MubcusKchDl4kVDNZGCy-172" value="&lt;b style=&quot;font-size: 9px;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;WAF&lt;br&gt;(웹 방화벽)&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1164.26" y="1735" width="71.02" height="21.5" as="geometry" />
+        </mxCell>
+        <mxCell id="MubcusKchDl4kVDNZGCy-173" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=#c91818;strokeWidth=3;" edge="1" parent="1" source="MubcusKchDl4kVDNZGCy-138" target="MubcusKchDl4kVDNZGCy-128">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1043" y="1616.92" as="sourcePoint" />
+            <mxPoint x="1135" y="1664" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="948" y="1638" />
+              <mxPoint x="925" y="1654" />
+              <mxPoint x="930" y="1670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MubcusKchDl4kVDNZGCy-174" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=#c91818;strokeWidth=3;" edge="1" parent="1" target="MubcusKchDl4kVDNZGCy-130">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1076.08" y="1591" as="sourcePoint" />
+            <mxPoint x="962.08" y="1675" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="948.08" y="1639" />
+              <mxPoint x="920" y="1658" />
+              <mxPoint x="917" y="1701" />
+              <mxPoint x="934" y="1733" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
