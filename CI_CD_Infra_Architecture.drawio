@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-15T00:47:50.430Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.69" etag="Gx19tl6HtTH4dI__SPj_" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-15T00:50:10.897Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.69" etag="xLblqmWzAz6JG1WQVBkt" version="21.0.6" type="github">
   <diagram name="페이지-1" id="matOO2qGJSzA4SlEIfrk">
-    <mxGraphModel dx="1233" dy="2528" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="971" dy="2362" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1098,13 +1098,10 @@
         <mxCell id="MubcusKchDl4kVDNZGCy-136" value="&lt;b style=&quot;font-size: 9px;&quot;&gt;Internet&lt;br style=&quot;font-size: 9px;&quot;&gt;Facing&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2;fontColor=#8977fa;" vertex="1" parent="MubcusKchDl4kVDNZGCy-122">
           <mxGeometry x="64" y="78.08" width="61.06" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MubcusKchDl4kVDNZGCy-165" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.generic_firewall;" vertex="1" parent="MubcusKchDl4kVDNZGCy-122">
-          <mxGeometry x="251" y="108.08" width="38.91" height="32.92" as="geometry" />
-        </mxCell>
-        <mxCell id="MubcusKchDl4kVDNZGCy-155" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=#c91818;strokeWidth=3;" edge="1" parent="MubcusKchDl4kVDNZGCy-122" source="MubcusKchDl4kVDNZGCy-128" target="MubcusKchDl4kVDNZGCy-165">
+        <mxCell id="MubcusKchDl4kVDNZGCy-155" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=#c91818;strokeWidth=3;" edge="1" parent="MubcusKchDl4kVDNZGCy-122" source="MubcusKchDl4kVDNZGCy-128">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="28" y="108.07999999999993" as="sourcePoint" />
-            <mxPoint x="688" y="-26.920000000000073" as="targetPoint" />
+            <mxPoint x="249" y="130.07999999999993" as="targetPoint" />
             <Array as="points">
               <mxPoint x="169" y="78.07999999999993" />
               <mxPoint x="199" y="85.07999999999993" />
@@ -1116,14 +1113,21 @@
         <mxCell id="MubcusKchDl4kVDNZGCy-166" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=#c91818;strokeWidth=3;" edge="1" parent="MubcusKchDl4kVDNZGCy-122" source="MubcusKchDl4kVDNZGCy-130" target="MubcusKchDl4kVDNZGCy-165">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="169" y="164" as="sourcePoint" />
-            <mxPoint x="263" y="198" as="targetPoint" />
+            <mxPoint x="246" y="121.07999999999993" as="targetPoint" />
             <Array as="points">
               <mxPoint x="181" y="159.07999999999993" />
-              <mxPoint x="196" y="162.07999999999993" />
-              <mxPoint x="220" y="172.07999999999993" />
-              <mxPoint x="234" y="162.07999999999993" />
+              <mxPoint x="202" y="142.07999999999993" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="MubcusKchDl4kVDNZGCy-170" value="" style="group" vertex="1" connectable="0" parent="MubcusKchDl4kVDNZGCy-122">
+          <mxGeometry x="234.94" y="108.08" width="71.01999999999998" height="85.50000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="MubcusKchDl4kVDNZGCy-165" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.generic_firewall;" vertex="1" parent="MubcusKchDl4kVDNZGCy-170">
+          <mxGeometry x="16.060000000000002" width="38.91" height="32.92" as="geometry" />
+        </mxCell>
+        <mxCell id="MubcusKchDl4kVDNZGCy-167" value="&lt;b style=&quot;font-size: 9px;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;UTM&lt;br style=&quot;font-size: 9px;&quot;&gt;(Unified Threat Management, 방화벽)&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MubcusKchDl4kVDNZGCy-170">
+          <mxGeometry y="64.00000000000001" width="71.02" height="21.5" as="geometry" />
         </mxCell>
         <mxCell id="MubcusKchDl4kVDNZGCy-104" value="Direct&#xa;Connect&#xa;(DX)" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=1" vertex="1" parent="qOfNHQr07MBk6NHw6b6k-53">
           <mxGeometry x="1333" y="828" width="100" height="40" as="geometry" />
