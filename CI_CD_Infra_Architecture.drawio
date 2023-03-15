@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-15T06:00:41.238Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.69" etag="rIjL-i44ZRPBWDFPGlDl" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-15T07:19:56.195Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.69" etag="4PafhPwLzudnvJOvhqso" version="21.0.6" type="github">
   <diagram name="페이지-1" id="matOO2qGJSzA4SlEIfrk">
-    <mxGraphModel dx="1065" dy="3637" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="2007" dy="4257" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -370,9 +370,6 @@
         </mxCell>
         <mxCell id="qOfNHQr07MBk6NHw6b6k-197" value="&lt;b&gt;Project&lt;br&gt;(132개)&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" parent="1" vertex="1">
           <mxGeometry x="622" y="-1975.5" width="92" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="qOfNHQr07MBk6NHw6b6k-111" value="AWS Certificate Manager" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.certificate_manager_3;container=0;" parent="1" vertex="1">
-          <mxGeometry x="1742" y="-2476.5" width="53.09" height="96" as="geometry" />
         </mxCell>
         <mxCell id="qOfNHQr07MBk6NHw6b6k-110" value="Amazon S3" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.s3;container=0;" parent="1" vertex="1">
           <mxGeometry x="1369" y="-1999" width="55" height="82" as="geometry" />
