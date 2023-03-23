@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-23T05:53:39.870Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.44" etag="hk0--yr-bUXORkgscBER" version="21.0.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-23T06:16:21.422Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.44" etag="_TZ_53vGE8YGQ3GisTjp" version="21.0.10" type="github">
   <diagram name="페이지-1" id="9SbutxJj2b5bRjDAkJWe">
-    <mxGraphModel dx="427" dy="20295" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="20000" pageHeight="20000" math="0" shadow="0">
+    <mxGraphModel dx="682" dy="20295" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="20000" pageHeight="20000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,9 +20,6 @@
         </mxCell>
         <mxCell id="o8AhM5z9xb0QQ9GoazW1-2" value="Amazon EC2" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.ec2;container=0;" vertex="1" parent="1">
           <mxGeometry x="2781.41" y="-2983.5" width="47.09" height="92" as="geometry" />
-        </mxCell>
-        <mxCell id="o8AhM5z9xb0QQ9GoazW1-3" value="Private Subnet" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_subnet;strokeColor=#879196;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#879196;dashed=0;container=0;" vertex="1" parent="1">
-          <mxGeometry x="2652.5" y="-3038" width="314" height="580" as="geometry" />
         </mxCell>
         <mxCell id="o8AhM5z9xb0QQ9GoazW1-4" value="Load Balancer Subnet" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_subnet;strokeColor=#879196;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#879196;dashed=0;container=0;" vertex="1" parent="1">
           <mxGeometry x="2652.5" y="-3141" width="433" height="96" as="geometry" />
@@ -146,6 +143,9 @@
               <mxPoint x="373.5" y="677" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="o8AhM5z9xb0QQ9GoazW1-3" value="Private Subnet" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_subnet;strokeColor=#879196;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#879196;dashed=0;container=0;" vertex="1" parent="o8AhM5z9xb0QQ9GoazW1-8">
+          <mxGeometry x="289" y="650" width="314" height="580" as="geometry" />
         </mxCell>
         <mxCell id="o8AhM5z9xb0QQ9GoazW1-35" value="" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="2032.5" y="-3445" width="169" height="122" as="geometry" />
