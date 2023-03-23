@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-23T06:37:06.005Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.44" etag="QuSVKj6sqqd4HkV8by47" version="21.0.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-23T06:41:56.970Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.44" etag="ps82Idlo_Y7A4tbk_XyF" version="21.0.10" type="github">
   <diagram name="페이지-1" id="9SbutxJj2b5bRjDAkJWe">
     <mxGraphModel dx="793" dy="20343" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="20000" pageHeight="20000" math="0" shadow="0">
       <root>
@@ -579,9 +579,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="o8AhM5z9xb0QQ9GoazW1-133" value="&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;b&gt;Proxy Server 역할&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2;fontColor=#8977fa;container=0;" vertex="1" parent="1">
-          <mxGeometry x="2877.9300000000003" y="-3396" width="117" height="28.42" as="geometry" />
-        </mxCell>
         <mxCell id="o8AhM5z9xb0QQ9GoazW1-134" value="&lt;b&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;H/W 장비 테스트&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2;fontColor=#8977fa;container=0;" vertex="1" parent="1">
           <mxGeometry x="3374.12" y="-2623" width="105.76" height="30" as="geometry" />
         </mxCell>
@@ -621,7 +618,7 @@
         <mxCell id="o8AhM5z9xb0QQ9GoazW1-151" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.generic_firewall;container=0;" vertex="1" parent="1">
           <mxGeometry x="2886.5" y="-3372" width="38.91" height="32.92" as="geometry" />
         </mxCell>
-        <mxCell id="o8AhM5z9xb0QQ9GoazW1-152" value="&lt;b style=&quot;font-size: 9px;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;UTM&lt;br style=&quot;font-size: 9px;&quot;&gt;(통합 보안 솔루션)&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="1">
+        <mxCell id="o8AhM5z9xb0QQ9GoazW1-152" value="&lt;b style=&quot;font-size: 9px;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;White&lt;br&gt;List&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="1">
           <mxGeometry x="2861.45" y="-3334" width="89" height="21.5" as="geometry" />
         </mxCell>
         <mxCell id="o8AhM5z9xb0QQ9GoazW1-153" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=#1579b7;strokeWidth=3;entryX=0.588;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="o8AhM5z9xb0QQ9GoazW1-84">
@@ -772,7 +769,7 @@
           <mxGeometry x="191.25999999999996" y="18" width="111" height="30" as="geometry" />
         </mxCell>
         <mxCell id="o8AhM5z9xb0QQ9GoazW1-238" value="Build Server (64 Core, 512 Mem)" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_on_premise;strokeColor=#5A6C86;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#5A6C86;dashed=0;" vertex="1" parent="o8AhM5z9xb0QQ9GoazW1-228">
-          <mxGeometry x="9" y="172" width="297" height="107" as="geometry" />
+          <mxGeometry x="9" y="172" width="304" height="107" as="geometry" />
         </mxCell>
         <mxCell id="o8AhM5z9xb0QQ9GoazW1-240" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;...&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="o8AhM5z9xb0QQ9GoazW1-238">
           <mxGeometry x="142.07000000000016" y="26.5" width="157" height="51" as="geometry" />
@@ -786,7 +783,7 @@
         <mxCell id="o8AhM5z9xb0QQ9GoazW1-235" value="" style="image;html=1;image=img/lib/clip_art/computers/Virtual_Machine_128x128.png" vertex="1" parent="1">
           <mxGeometry x="2887.4100000000003" y="-2563" width="38" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="o8AhM5z9xb0QQ9GoazW1-241" value="Test Server (64 Core, 512 Mem)" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_on_premise;strokeColor=#5A6C86;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#5A6C86;dashed=0;" vertex="1" parent="1">
+        <mxCell id="o8AhM5z9xb0QQ9GoazW1-241" value="Testing Server (64 Core, 512 Mem)" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_on_premise;strokeColor=#5A6C86;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#5A6C86;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="2653" y="-3027" width="327" height="254" as="geometry" />
         </mxCell>
         <mxCell id="o8AhM5z9xb0QQ9GoazW1-242" value="&lt;b&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Infra 관리 그룹 (Node)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2;fontColor=#8977fa;container=0;" vertex="1" parent="o8AhM5z9xb0QQ9GoazW1-241">
@@ -806,9 +803,6 @@
         </mxCell>
         <mxCell id="o8AhM5z9xb0QQ9GoazW1-4" value="Load Balancer Subnet" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_subnet;strokeColor=#879196;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#879196;dashed=0;container=0;" vertex="1" parent="1">
           <mxGeometry x="2652.5" y="-3141" width="328.5" height="96" as="geometry" />
-        </mxCell>
-        <mxCell id="o8AhM5z9xb0QQ9GoazW1-267" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#005F4B;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.proxy_server;" vertex="1" parent="1">
-          <mxGeometry x="2583.73" y="-3458" width="40" height="52" as="geometry" />
         </mxCell>
         <mxCell id="o8AhM5z9xb0QQ9GoazW1-269" value="Proxy Server" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_on_premise;strokeColor=#5A6C86;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#5A6C86;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="2635.5" y="-3480.08" width="525.5" height="245.08" as="geometry" />
