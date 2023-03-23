@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-23T06:05:26.191Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.44" etag="oRpR8ptdHJ8zGuc0cDmE" version="21.0.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-23T06:05:39.881Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.44" etag="qe5la999QURhPolbGww4" version="21.0.10" type="github">
   <diagram name="페이지-1" id="ba9H6Bbxg3-3mt1Ng7NZ">
     <mxGraphModel dx="2107" dy="3834" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
       <root>
@@ -774,7 +774,7 @@
           <mxGeometry x="743.8240298507462" y="-1691.6470588235295" width="43.88059701492537" height="23.64705882352941" as="geometry" />
         </mxCell>
         <mxCell id="rI2Z6mF0yV0l67jGimGL-19" value="&lt;font size=&quot;1&quot;&gt;&lt;i&gt;&lt;font color=&quot;#8777fd&quot;&gt;&lt;b&gt;Jenkins Slave&lt;br&gt;(Master Node Job 수행)&lt;/b&gt;&lt;/font&gt;&lt;/i&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="713.5" y="-1787" width="116" height="13" as="geometry" />
+          <mxGeometry x="783" y="-1784" width="116" height="13" as="geometry" />
         </mxCell>
         <mxCell id="rI2Z6mF0yV0l67jGimGL-20" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="747" y="-1865" width="49" height="67" as="geometry" />
