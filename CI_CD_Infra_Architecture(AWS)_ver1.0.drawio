@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-24T01:41:35.177Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.44" etag="FJmwVzQgHIyp-nvAFcp7" version="21.0.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-24T01:41:41.388Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.44" etag="8_hG-htCINlkm8sCFzgq" version="21.0.10" type="github">
   <diagram name="페이지-1" id="ba9H6Bbxg3-3mt1Ng7NZ">
     <mxGraphModel dx="1905" dy="3867" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
       <root>
@@ -811,9 +811,6 @@
         </mxCell>
         <mxCell id="Qc6XQ7yRk7lYbJUlFgcG-397" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-social-github-128.png;container=0;" parent="1" vertex="1">
           <mxGeometry x="659.54" y="-2101" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="rI2Z6mF0yV0l67jGimGL-40" value="&lt;i&gt;36km&lt;/i&gt;" style="shape=dimension;direction=west;whiteSpace=wrap;html=1;align=center;points=[];verticalAlign=top;spacingTop=-15;labelBackgroundColor=none;dashed=0;sketch=0;strokeColor=#030303;fontFamily=Helvetica;fontSize=10;fontColor=#232F3E;fillColor=#232F3E;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="832" y="-2362.33" width="55" height="22" as="geometry" />
         </mxCell>
         <mxCell id="Qc6XQ7yRk7lYbJUlFgcG-261" value="&lt;font color=&quot;#259217&quot;&gt;CI/CD VPC (Virtual Private Cloud)&lt;/font&gt;" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=0;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc;strokeColor=#248814;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#AAB7B8;dashed=0;" parent="1" vertex="1">
           <mxGeometry x="599" y="-2378" width="598" height="781" as="geometry" />
